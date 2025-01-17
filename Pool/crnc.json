@@ -1,0 +1,12 @@
+{
+    "url" : "stratum+tcp://cugeoyom.tech:3230",
+	"user" : "KCEQwNc8K57F23v1C1FckoFaXnfs5VHpu7",
+	"pass" : "x",
+	"algo" : "yespowerLTNCG",
+	"cpu-affinity" : 4294967295,
+"cpu-priority" : 5,
+   "api-bind" : "127.0.0.1:4048",
+	"benchmark" : false,
+	"quiet" : false
+}
+
